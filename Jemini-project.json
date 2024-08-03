@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "my-mini-project-37928",
+  "private_key_id": "93b710f2bb2be7f595057d119def1072b11b282c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCxrrqk5jSOFPeG\nhSS++TolAUyack+vR8Yi8CzY7ED0devRtXkK3VWLpRwry4V2rFYUH8nCgDppBOit\n8WHvmIQm57QgW6AXoQMSlId95jpTaL8nC5Mz7dOGyDnvH907Tw/UamJnvYbBvBM+\nmvbYrt9Q0mCWF20UgB2mbXjJDZrKSKkI5Y8ZvY/PKJPwXoX6+67I4MKG1bPbh9Zp\n9dRRlevHwTCf9DYPU0RcweF43/69rPkeJLiOkFBTIvScBOBrlJUXdyvJ6rstoEio\ndmKFzx1nyAJb9MRKP5xEuUbhUJ2rkB/LmC3NLKVHj8LUvPDtkGPFt1YU9GRVeC79\nZ5eIuMUrAgMBAAECggEAFORwudb/sv0wJbceHP59IcDHWxm52OhdmdoXy+HruVLs\nSZpHA0oHNwZRC61AojWdYXxjYuVk+NhE678IPv31/AUenvdnGaArFlI0pE8f6JLW\ndybbRi3ew2hjt4RNpR2kxNtFeuFEKR+OO7xI7i2RwJUcGkni35g45ErW+v0IiGRU\noxJV8/JwuHsY8CW3bLPx8dS1ossD2ZHpBE0XT0vMe3Wdjbl9CJ3565afxvt/CgQo\nxlT2qq3LvswVvy64Mogzn/ABbbJAA830D10uj28BUo3ljJc49k3SF64Qemypl7KR\nPakCt26LwjSwwz6aO06goIWG6GEKxx60pOy/u8A3YQKBgQDX1pEizAyv0Zh+Edx3\njrDn814/oUZci+2Oal3d7MHJF1Y18r2++BSF9Uuz+FAoehkJ8QL1QejuwblGhjoN\ng7N0qcERhsqlCtePyTuRPYkMCY7OjwQE+q7eJ6JEuLg7vTk559kxiqsnUY3jHaKQ\nUWHufoWTdZsI34gKKDLH9f9lOQKBgQDSvp9V1jcyrgnCcYWXi3lltCJjSXd3lQrQ\nZXH4gdOtgrPmCQAoOJC3CyfuMkBONR7Fb0AG8vEvDXcVSyEm+rxQEApwLmf8a835\nvea0bRjLwHNE3CFDvrJIVDs2w6HiFczvDRB/M6W6y+9N8bnJ21bKWg8HuZhfPhPl\nubg18XjBgwKBgQCbEnAoXg5na+FyAocx5vU3UWVPtiGFcIt3HPjf77CzN+8ax5KI\nWFj2feysGyYMTt0ahWyopXgjwk/JWbrv5sXSdfxfCUcjGQ0TI3OGwH1shplx0tMC\neNGWj0dItKa5VRR+hBNKQuUBVNjqampX4gDIh2KVNZPz5hYppgQGIroiEQKBgQCP\n0FvFZNjoMdIhKf0DbL+cQvAQl0r6hPALRJ8g+d+tEXuYqF2+FNPUxb0rFInDlQZ5\nrzCfTVx/Qo4YLtvh0Mt/S2MEKPb3T84Q9qGgUK7SJHPE8v+UTmc1ap26AojPUxc1\nrtGqLGGVdqPIqgOiF5dDoW+OUv4DSMalRzbJQQ6p5wKBgQDLobqUYEiHweEQvMAl\nW7HRS8r6A6hiphBNyZRYneCt88+w8hpO4dIZnmDKwexHwR6cMUBQ+bQ8Dw92elvh\nKLZpCrEFNs+mLSEXKnt1J8LNe+MbqL5bG/4NvqFo/iaeAcQuzBmyxh76JOXP7QLo\nPvlRsEJIH9KIB+1UWN9uOpmxkA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "storybook-app@my-mini-project-37928.iam.gserviceaccount.com",
+  "client_id": "116906670287861209244",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/storybook-app%40my-mini-project-37928.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
