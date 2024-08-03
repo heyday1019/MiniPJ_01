@@ -17,3 +17,4 @@ If we get the chance, We'd like to learn more skills and finish it.
 Gemini-Ai 와 상호적으로 아이들의 상상을 동화책으로 만들어 아이들의 상상을 펼칠 수 있는 웹앱을 제작
 To create a web app that can interact with Gemini-Ai to turn children's imagination into a storybook and let their imagination run wild.
 
+![MiniPJ_Gemini](https://github.com/user-attachments/assets/0f448756-18b6-4c88-8e68-7d45b9f326ad)
